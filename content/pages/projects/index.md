@@ -20,6 +20,7 @@ projectFeed:
   showDescription: false
   variant: variant-a
   showFeaturedImage: true
+  showReadMoreLink: true
 topSections: []
 bottomSections: []
 styles:
