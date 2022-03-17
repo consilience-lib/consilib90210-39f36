@@ -154,7 +154,7 @@ sections:
     title: this is only the beginning
     media:
       title: Title of the video
-      url: 'https://youtu.be/CXnUX2EkicE'
+      url: 'https://youtu.be/7Zb21MQVsBM'
       autoplay: false
       loop: false
       muted: false
