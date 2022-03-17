@@ -16,7 +16,7 @@ numOfProjectsPerPage: 5
 projectFeed:
   title: null
   subtitle: null
-  showDate: true
+  showDate: false
   showDescription: true
   variant: variant-a
 topSections: []
