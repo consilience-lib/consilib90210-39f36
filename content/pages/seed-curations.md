@@ -69,6 +69,7 @@ sections:
     projects:
       - content/pages/projects/project-one.md
       - content/pages/projects/project-two.md
+      - content/pages/projects/consilience-as-a-unifying-principle.md
     type: FeaturedProjectsSection
 layout: PageLayout
 ---
