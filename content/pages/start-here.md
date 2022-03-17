@@ -5,9 +5,9 @@ addTitleSuffix: true
 socialImage: null
 metaTags: []
 title: start here
-colors: colors-a
+colors: colors-e
 backgroundImage:
-  url: https://arweave.net/gituGar6QIyhDLhvZ4TdKdjo-rwpcWwTytYj7ddrz4E
+  url: 'https://arweave.net/gituGar6QIyhDLhvZ4TdKdjo-rwpcWwTytYj7ddrz4E'
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
