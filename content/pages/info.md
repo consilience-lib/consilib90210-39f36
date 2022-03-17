@@ -3,7 +3,7 @@ title: About
 layout: PageLayout
 colors: colors-a
 backgroundImage:
-  url: /images/bg4.jpg
+  url: https://arweave.net/dn6z-GqVMI3psbX_EM4SsyeMENyI_MCTcaweuP61pR0
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
