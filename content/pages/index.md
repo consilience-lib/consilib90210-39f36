@@ -36,9 +36,8 @@ sections:
     elementId: ''
     backgroundSize: full
     title: Let's do this
-    text: >
-      ***Welcome to TEC Consilience Library! Where we explore complexities of
-      Token engineering ! ***
+    text: |
+      Where we explore complexities of Token engineering ! 
     actions:
       - label: start here
         altText: start
