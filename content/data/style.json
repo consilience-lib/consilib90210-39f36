@@ -6,7 +6,7 @@
         "weight": "medium",
         "decoration": "none",
         "case": "capitalize",
-        "letterSpacing": "normal"
+        "letterSpacing": "wider"
     },
     "h2": {
         "size": "lg",
