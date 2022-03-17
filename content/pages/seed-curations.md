@@ -42,7 +42,7 @@ sections:
     subtitle: null
     items:
       - type: FeaturedItem
-        title: I'm Fast
+        title: Consilience As A Unifying Principle
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
