@@ -12,7 +12,6 @@ sections:
   - colors: colors-f
     elementId: ''
     variant: variant-a
-    title: consilience library
     subtitle: Cons
     text: |-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
