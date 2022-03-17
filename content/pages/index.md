@@ -37,7 +37,7 @@ sections:
     backgroundSize: full
     title: Welcome to TEC Consilience Library
     text: |
-      Where we explore complexities of Token engineering ! 
+      *Where we explore complexities of Token engineering*
     actions:
       - label: start here
         altText: start
