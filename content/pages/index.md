@@ -38,7 +38,7 @@ sections:
       text:
         textAlign: center
     type: TextSection
-  - colors: colors-f
+  - colors: colors-a
     elementId: ''
     backgroundSize: inset
     title: Let's do this
