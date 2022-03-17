@@ -17,6 +17,17 @@
     "footer": {
         "primaryLinks": [
             {
+                "label": "Learn more",
+                "altText": "",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "primary",
+                "elementId": "",
+                "type": "Button"
+            },
+            {
                 "type": "Link",
                 "url": "https://github.com/consilience-lib",
                 "altText": "",
