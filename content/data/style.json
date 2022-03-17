@@ -16,7 +16,7 @@
         "letterSpacing": "tight"
     },
     "h3": {
-        "size": "4xl",
+        "size": "xl",
         "weight": "normal",
         "decoration": "none",
         "case": "none",
