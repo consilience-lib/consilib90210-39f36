@@ -221,7 +221,7 @@ sections:
             textAlign: left
         featuredImage:
           url: /images/flower5l.png
-          altText: altText of the image
+          altText: flower
           caption: Caption of the image
           elementId: ''
           type: ImageBlock
