@@ -17,7 +17,7 @@ projectFeed:
   title: null
   subtitle: null
   showDate: false
-  showDescription: true
+  showDescription: false
   variant: variant-a
 topSections: []
 bottomSections: []
