@@ -45,7 +45,7 @@ sections:
     variant: variant-a
     actions:
       - type: Link
-        label: See all projects
+        label: seed curations
         altText: See all projects
         url: /projects
     styles:
