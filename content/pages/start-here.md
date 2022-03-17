@@ -15,7 +15,7 @@ backgroundImage:
 sections:
   - type: TextSection
     colors: colors-f
-    variant: variant-a
+    variant: variant-b
     title: This is only the beginning
     text: >
       Token Engineering is an emerging discipline and the pattern of practice is
