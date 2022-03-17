@@ -128,7 +128,7 @@ sections:
     actions:
       - label: Learn more
         altText: ''
-        url: /
+        url: /join-a-learning-group
         showIcon: false
         icon: arrowRight
         iconPosition: right
