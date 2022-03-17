@@ -12,7 +12,7 @@
         "size": "base",
         "weight": "normal",
         "decoration": "none",
-        "case": "none",
+        "case": "capitalize",
         "letterSpacing": "normal"
     },
     "h3": {
