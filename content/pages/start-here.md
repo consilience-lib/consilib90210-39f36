@@ -188,5 +188,6 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
+    title: is only the beginning
 layout: PageLayout
 ---
