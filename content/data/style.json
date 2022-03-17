@@ -12,7 +12,7 @@
         "size": "4xl",
         "weight": "medium",
         "decoration": "none",
-        "case": "lowercase",
+        "case": "none",
         "letterSpacing": "wide"
     },
     "h3": {
