@@ -19,6 +19,7 @@ projectFeed:
   showDate: false
   showDescription: false
   variant: variant-a
+  showFeaturedImage: true
 topSections: []
 bottomSections: []
 styles:
