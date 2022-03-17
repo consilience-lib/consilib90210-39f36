@@ -48,7 +48,7 @@ sections:
         iconPosition: right
         style: secondary
         type: Button
-      - label: learn more
+      - label: lstart
         altText: ''
         url: /
         showIcon: true
