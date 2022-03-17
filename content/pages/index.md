@@ -40,14 +40,6 @@ sections:
       The Stackbit theme is flexible and scalable to every need. It can manage
       any layout and any screen.
     actions:
-      - label: Try it now
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
       - label: start here
         altText: start
         url: /start-here
