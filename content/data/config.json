@@ -15,7 +15,6 @@
         },
         "logo": {
             "url": "/images/blob-g.png",
-            "caption": "Caption of the image",
             "elementId": "",
             "type": "ImageBlock"
         }
