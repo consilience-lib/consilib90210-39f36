@@ -130,7 +130,7 @@ sections:
         altText: ''
         url: /join-a-learning-group
         showIcon: true
-        icon: arrowRight
+        icon: chevronRight
         iconPosition: right
         elementId: ''
         type: Link
