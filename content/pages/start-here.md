@@ -145,7 +145,7 @@ sections:
         textAlign: left
       text:
         textAlign: left
-  - colors: colors-c
+  - colors: colors-a
     elementId: ''
     backgroundSize: inset
     subtitle: >-
