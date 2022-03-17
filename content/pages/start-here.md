@@ -129,16 +129,7 @@ sections:
 
       [Further
       Learning](https://www.notion.so/Further-Learning-09e21447b5c0427e8a089f7f2369f93a)
-    actions:
-      - label: Hire me
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Button
+    actions: []
     styles:
       self:
         height: auto
