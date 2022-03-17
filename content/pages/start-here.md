@@ -168,7 +168,7 @@ sections:
       type: VideoBlock
   - colors: colors-f
     elementId: ''
-    title: Value propositions
+    title: Cryptoeconomic flower
     subtitle: null
     items:
       - type: FeaturedItem
