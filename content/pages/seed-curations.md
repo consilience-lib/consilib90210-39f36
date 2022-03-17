@@ -43,7 +43,6 @@ sections:
     images:
       - type: ImageBlock
         url: /images/logo1.svg
-        button: 
         altText: logo one
       - type: ImageBlock
         url: /images/logo2.svg
