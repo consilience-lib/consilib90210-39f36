@@ -36,45 +36,5 @@ sections:
         textAlign: left
       text:
         textAlign: left
-  - colors: colors-a
-    elementId: ''
-    title: Gallery
-    subtitle: This is the subtitle
-    images:
-      - type: ImageBlock
-        url: /images/logo1.svg
-        altText: logo one
-      - type: ImageBlock
-        url: /images/logo2.svg
-        altText: logo two
-      - type: ImageBlock
-        url: /images/logo3.svg
-        altText: logo three
-      - type: ImageBlock
-        url: /images/logo4.svg
-        altText: logo four
-      - type: ImageBlock
-        url: /images/logo5.svg
-        altText: logo five
-    spacing: 16
-    columns: 5
-    aspectRatio: '16:9'
-    showCaption: true
-    enableHover: true
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-    type: MediaGallerySection
 layout: PageLayout
 ---
