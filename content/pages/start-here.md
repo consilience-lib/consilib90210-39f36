@@ -205,13 +205,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: I'm Focused
-        actions:
-          - type: Button
-            label: ''
-            showIcon: true
-            icon: arrowRight
-            url: /
-            style: primary
+        actions: []
         styles:
           self:
             textAlign: left
