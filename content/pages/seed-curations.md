@@ -47,7 +47,7 @@ sections:
       - type: Link
         label: seed curations
         altText: seed curtions
-        url: /seed
+        url: /seed-curations
     styles:
       self:
         height: auto
