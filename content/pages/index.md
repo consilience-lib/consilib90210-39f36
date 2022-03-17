@@ -52,7 +52,7 @@ sections:
         altText: ''
         url: /
         showIcon: true
-        icon: arrowRight
+        icon: chevronLeft
         iconPosition: right
         elementId: ''
         type: Link
