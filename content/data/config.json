@@ -49,7 +49,6 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "GitHub",
                 "url": "https://github.com/stackbit-themes",
                 "altText": "",
                 "showIcon": true,
