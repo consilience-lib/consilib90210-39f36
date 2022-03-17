@@ -5,7 +5,7 @@
         "size": "xl",
         "weight": "medium",
         "decoration": "none",
-        "case": "capitalize",
+        "case": "uppercase",
         "letterSpacing": "tighter"
     },
     "h2": {
