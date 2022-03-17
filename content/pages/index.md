@@ -35,7 +35,7 @@ sections:
   - colors: colors-f
     elementId: ''
     backgroundSize: full
-    title: Welcome to TEC Consilience Library!
+    title: Welcome to TEC Consilience Library
     text: |
       Where we explore complexities of Token engineering ! 
     actions:
