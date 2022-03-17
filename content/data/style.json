@@ -9,7 +9,7 @@
         "letterSpacing": "normal"
     },
     "h2": {
-        "size": "base",
+        "size": "lg",
         "weight": "normal",
         "decoration": "none",
         "case": "capitalize",
