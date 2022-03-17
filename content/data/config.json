@@ -17,6 +17,13 @@
     "footer": {
         "primaryLinks": [
             {
+                "type": "Link",
+                "url": "https://github.com/consilience-lib",
+                "altText": "",
+                "showIcon": true,
+                "icon": "github"
+            },
+            {
                 "label": "Learn more",
                 "altText": "",
                 "url": "/",
@@ -26,13 +33,6 @@
                 "style": "primary",
                 "elementId": "",
                 "type": "Button"
-            },
-            {
-                "type": "Link",
-                "url": "https://github.com/consilience-lib",
-                "altText": "",
-                "showIcon": true,
-                "icon": "github"
             }
         ],
         "copyrightText": "[join TEC Omega](https://discord.gg/5Fu7j8SMrv/)\n\n",
