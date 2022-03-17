@@ -1,6 +1,6 @@
 {
     "type": "ThemeStyle",
-    "fontBody": "fontSecondary",
+    "fontBody": "fontPrimary",
     "h1": {
         "size": "base",
         "weight": "normal",
