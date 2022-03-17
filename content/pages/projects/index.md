@@ -21,6 +21,7 @@ projectFeed:
   variant: variant-a
   showFeaturedImage: true
   showReadMoreLink: true
+  colors: colors-f
 topSections: []
 bottomSections: []
 styles:
