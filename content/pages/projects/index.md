@@ -12,7 +12,7 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 100
-numOfProjectsPerPage: 10
+numOfProjectsPerPage: 5
 projectFeed:
   title: null
   subtitle: null
