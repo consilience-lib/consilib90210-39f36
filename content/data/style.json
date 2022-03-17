@@ -13,7 +13,7 @@
         "weight": "normal",
         "decoration": "none",
         "case": "none",
-        "letterSpacing": "wide"
+        "letterSpacing": "normal"
     },
     "h3": {
         "size": "4xl",
