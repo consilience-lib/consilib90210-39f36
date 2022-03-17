@@ -46,7 +46,7 @@ sections:
     actions:
       - type: Link
         label: seed curations
-        altText: See all projects
+        altText: seed curtion
         url: /projects
     styles:
       self:
