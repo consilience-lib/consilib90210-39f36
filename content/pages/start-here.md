@@ -14,7 +14,7 @@ backgroundImage:
   opacity: 80
 sections:
   - type: TextSection
-    colors: colors-a
+    colors: colors-b
     variant: variant-a
     title: This is only the beginning
     text: >
