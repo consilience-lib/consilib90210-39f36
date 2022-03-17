@@ -125,7 +125,15 @@ sections:
 
       [Further
       Learning](https://www.notion.so/Further-Learning-09e21447b5c0427e8a089f7f2369f93a)
-    actions: []
+    actions:
+      - label: Learn more
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
+        type: Link
     styles:
       self:
         height: auto
