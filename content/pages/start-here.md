@@ -152,5 +152,15 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     title: this is only the beginning
+    media:
+      title: Title of the video
+      url: 'https://youtu.be/CXnUX2EkicE'
+      autoplay: false
+      loop: false
+      muted: false
+      controls: true
+      aspectRatio: '16:9'
+      elementId: ''
+      type: VideoBlock
 layout: PageLayout
 ---
