@@ -50,7 +50,7 @@ sections:
         type: Button
       - label: start here
         altText: ''
-        url: /
+        url: /start
         showIcon: true
         icon: chevronRight
         iconPosition: right
