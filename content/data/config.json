@@ -3,7 +3,7 @@
     "favicon": "/images/favicon.svg",
     "header": {
         "headerVariant": "variant-a",
-        "isSticky": true,
+        "isSticky": false,
         "title": "consilience lib",
         "isTitleVisible": false,
         "primaryLinks": [],
