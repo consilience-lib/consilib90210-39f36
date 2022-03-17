@@ -16,7 +16,7 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: This in an empty page
+    title: This is only the beginning
     text: >
       Token Engineering is an emerging discipline and the pattern of practice is
       still emerging. The TE Consilience Library is a crowdsourced, curated
