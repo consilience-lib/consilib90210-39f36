@@ -48,6 +48,14 @@ sections:
         iconPosition: right
         style: secondary
         type: Button
+      - label: Learn more
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
+        type: Link
     styles:
       self:
         height: auto
