@@ -129,7 +129,7 @@ sections:
       - label: Join a learning group
         altText: ''
         url: /join-a-learning-group
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         elementId: ''
