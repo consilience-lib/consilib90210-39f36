@@ -49,7 +49,7 @@ sections:
         style: secondary
         type: Button
       - label: start here
-        altText: ''
+        altText: start
         url: /start-here
         showIcon: true
         icon: chevronRight
