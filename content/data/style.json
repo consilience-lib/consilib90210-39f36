@@ -2,7 +2,7 @@
     "type": "ThemeStyle",
     "fontBody": "fontPrimary",
     "h1": {
-        "size": "base",
+        "size": "xl",
         "weight": "medium",
         "decoration": "none",
         "case": "lowercase",
