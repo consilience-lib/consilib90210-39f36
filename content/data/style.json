@@ -40,7 +40,7 @@
         "size": "lg",
         "weight": "normal",
         "decoration": "none",
-        "case": "uppercase",
+        "case": "none",
         "letterSpacing": "normal"
     },
     "light": "#ffffff",
