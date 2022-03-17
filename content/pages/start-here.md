@@ -204,7 +204,6 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: I'm Focused
         actions: []
         styles:
           self:
