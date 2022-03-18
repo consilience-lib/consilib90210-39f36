@@ -18,7 +18,7 @@ sections:
     images:
       - type: ImageBlock
         url: /images/flower5l.png
-        altText: flozer
+        altText: flower
         caption: Image four caption
     spacing: 16
     columns: 1
