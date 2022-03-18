@@ -15,43 +15,6 @@ backgroundImage:
 sections:
   - colors: colors-a
     elementId: ''
-    title: Cryptoeconomic flower
-    subtitle: null
-    items:
-      - type: FeaturedItem
-        actions: []
-        styles:
-          self:
-            textAlign: left
-        featuredImage:
-          url: /images/flower5l.png
-          altText: flower
-          caption: flower
-          elementId: ''
-          type: ImageBlock
-    actions: []
-    columns: 1
-    spacingX: 16
-    spacingY: 16
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-36
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: FeaturedItemsSection
-  - colors: colors-a
-    elementId: ''
     backgroundSize: inset
     text: >
       Token Engineering is an emerging discipline and the pattern of practice is
