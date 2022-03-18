@@ -21,7 +21,7 @@ sections:
     media:
       url: /images/flower5l.png
       altText: flower
-      caption: Caption of the image
+      caption: flower
       elementId: ''
       type: ImageBlock
     styles:
