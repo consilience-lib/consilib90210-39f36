@@ -16,7 +16,6 @@ sections:
   - colors: colors-a
     elementId: ''
     backgroundSize: inset
-    title: Let's do this
     actions:
       - label: Try it now
         altText: ''
