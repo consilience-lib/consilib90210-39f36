@@ -5,7 +5,7 @@ addTitleSuffix: true
 socialImage: null
 metaTags: []
 title: TE Consilience Library Manifesto
-colors: colors-c
+colors: colors-a
 backgroundImage:
   url: 'https://arweave.net/Ddok-trIL_s3Z7pyWPzG0KReJpCXC7BNbCmOXzBguIk'
   backgroundSize: cover
