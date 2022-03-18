@@ -7,7 +7,7 @@ metaTags: []
 title: Hire a Token Engineer
 colors: colors-a
 backgroundImage:
-  url: /images/bg2.jpg
+  url: https://arweave.net/DddSrTlJmNPxeh4MrvMWCRwkW3eLq5jff-dImo41Tlw
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
