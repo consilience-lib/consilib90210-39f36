@@ -13,7 +13,7 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 80
 sections:
-  - colors: colors-e
+  - colors: colors-a
     elementId: ''
     backgroundSize: inset
     text: null
