@@ -22,7 +22,7 @@ sections:
     media:
       url: 'https://arweave.net/eoiC5yfnqDhl7WVzYkivk-S59aAcqsBnunGvIegPrGY'
       altText: blob
-      caption: Caption of the image
+      caption: blob
       elementId: ''
       type: ImageBlock
     styles:
