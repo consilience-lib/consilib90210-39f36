@@ -21,7 +21,7 @@ sections:
     actions: []
     media:
       url: 'https://arweave.net/eoiC5yfnqDhl7WVzYkivk-S59aAcqsBnunGvIegPrGY'
-      altText: altText of the image
+      altText: blob
       caption: Caption of the image
       elementId: ''
       type: ImageBlock
