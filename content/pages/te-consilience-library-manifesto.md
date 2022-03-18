@@ -15,11 +15,7 @@ backgroundImage:
 sections:
   - colors: colors-a
     elementId: ''
-    images:
-      - type: ImageBlock
-        url: /images/flower5l.png
-        altText: flower
-        caption: flower
+    images: []
     spacing: 16
     columns: 1
     aspectRatio: '4:3'
