@@ -7,7 +7,7 @@ metaTags: []
 title: Contact
 colors: colors-a
 backgroundImage:
-  url: /images/bg2.jpg
+  url: https://arweave.net/gsuwkY-aSBpaNMlmy7iMZeC34cTmKYnWgo6bNY7kT74
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
