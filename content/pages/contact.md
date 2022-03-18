@@ -39,9 +39,7 @@ sections:
   - colors: colors-f
     elementId: ''
     backgroundSize: inset
-    title: >-
-      I'm a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+    title: contact
     text: |+
       contqct page info
 
