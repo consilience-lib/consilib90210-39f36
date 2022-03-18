@@ -19,7 +19,7 @@ sections:
       - type: ImageBlock
         url: /images/flower5l.png
         altText: flower
-        caption: Image four caption
+        caption: flower
     spacing: 16
     columns: 1
     aspectRatio: '4:3'
