@@ -17,7 +17,7 @@ sections:
     elementId: ''
     images:
       - type: ImageBlock
-        url: /images/gallery-4.jpg
+        url: /images/flower5l.png
         altText: Image four
         caption: Image four caption
     spacing: 16
