@@ -7,7 +7,7 @@ metaTags: []
 title: Further Learning
 colors: colors-a
 backgroundImage:
-  url: /images/bg2.jpg
+  url: https://arweave.net/0KxVcXl3P4oTcC1drJhAn0HsviO-Q9ZrYojpzp0T4E0
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
