@@ -45,10 +45,7 @@ sections:
     backgroundSize: inset
     title: |
       TE Consilience Library Manifesto
-    subtitle: >-
-      This is my info—I'm sharing it all this with ya'll to impress you with all
-      the hard work I've done in the past few years. Once you're impressed, you
-      can continue to scroll down to see more details and credentials about me.
+    subtitle: ABSTRACT
     text: >+
       The **T.E. Consilience Initiative** is an 0mega-led project that intends
       to create a 3-phased, multidisciplinary library that synthesizes relevant
