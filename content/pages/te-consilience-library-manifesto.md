@@ -40,7 +40,7 @@ sections:
       subtitle:
         textAlign: center
     type: MediaGallerySection
-  - colors: colors-f
+  - colors: colors-a
     elementId: ''
     backgroundSize: inset
     title: |
