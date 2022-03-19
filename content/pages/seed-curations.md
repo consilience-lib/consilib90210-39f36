@@ -12,52 +12,6 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 80
-sections:
-  - colors: colors-f
-    elementId: ''
-    items:
-      - type: Label
-        label: start here
-        url: /start-here
-      - type: Label
-        label: manifesto
-        url: /te-consilience-library-manifesto
-      - type: Label
-        label: contribute
-        url: contribute
-      - type: Label
-        label: learning
-        url: learning
-      - type: Label
-        label: calendar
-        url: calendar
-      - type: Label
-        label: tasks
-        url: tasks
-      - type: Label
-        url: promo
-        label: promo
-      - type: Label
-        label: hire
-        url: hire
-      - label: join
-        url: join
-      - label: contact
-        url: /contact
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-36
-          - pb-36
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-    type: LabelsSection
+sections: []
 layout: PageLayout
 ---
