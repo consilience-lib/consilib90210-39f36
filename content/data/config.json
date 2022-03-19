@@ -37,7 +37,7 @@
             {
                 "label": "manifesto",
                 "altText": "",
-                "url": "//te-consilience-library-manifesto",
+                "url": "/te-consilience-library-manifesto",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
