@@ -1,7 +1,7 @@
 ---
 metaTitle: null
 metaDescription: null
-addTitleSuffix: false
+addTitleSuffix: true
 socialImage: null
 metaTags: []
 title: start here
