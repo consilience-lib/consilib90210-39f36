@@ -32,7 +32,7 @@ sections:
         label: calendar
         url: calendar
       - type: Label
-        label: Pancakes
+        label: tasks
       - type: Label
         label: C++
       - type: Label
