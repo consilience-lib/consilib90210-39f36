@@ -115,7 +115,7 @@ sections:
 
 
       There are also more learning opportunities from the initiatives of the
-      Token Engineering comminities that you can take advantage of
+      Token Engineering communities that you can take advantage of
       [here](https://www.notion.so/Further-Learning-09e21447b5c0427e8a089f7f2369f93a).
 
 
