@@ -42,7 +42,7 @@ sections:
         url: hire
       - label: join
         url: join
-      - label: /contact
+      - label: contact
         url: /contact
     styles:
       self:
