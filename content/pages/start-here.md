@@ -111,7 +111,7 @@ sections:
 
 
       Find the calendar
-      [here](calendar).
+      [here](/calendar).
 
 
       There are also more learning opportunities from the initiatives of the
