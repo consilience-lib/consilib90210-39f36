@@ -41,7 +41,7 @@ sections:
         label: hire
         url: hire
       - label: join
-        url: ''
+        url: join
     styles:
       self:
         height: auto
