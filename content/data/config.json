@@ -132,7 +132,7 @@
                 "type": "Button"
             },
             {
-                "label": "Learn more",
+                "label": "promo",
                 "altText": "",
                 "url": "/promo",
                 "showIcon": false,
