@@ -7,7 +7,7 @@ metaTags: []
 title: Seed Curations
 colors: colors-a
 backgroundImage:
-  url: /images/bg2.jpg
+  url: https://arweave.net/9JOIjeo3nOZvVFTek2ukodm7bwufzjmQkhxJ9U5PleM
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
