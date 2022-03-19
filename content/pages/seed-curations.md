@@ -45,7 +45,7 @@ sections:
         label: start here
         url: /start-here
       - type: Label
-        label: React
+        label: manifesto
       - type: Label
         label: Microsoft Office
       - type: Label
