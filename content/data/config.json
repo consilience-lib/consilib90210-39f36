@@ -92,7 +92,7 @@
             {
                 "label": "promo",
                 "altText": "",
-                "url": "/",
+                "url": "/promo",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
