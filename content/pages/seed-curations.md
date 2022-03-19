@@ -43,7 +43,7 @@ sections:
     items:
       - type: Label
         label: start here
-        url: /home
+        url: /start-here
       - type: Label
         label: React
       - type: Label
