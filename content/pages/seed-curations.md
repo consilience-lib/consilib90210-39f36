@@ -27,7 +27,7 @@ sections:
         url: /how-to-contribute
       - type: Label
         label: further learning
-        url: further-learning
+        url: learning
       - type: Label
         label: calendar
         url: calendar
