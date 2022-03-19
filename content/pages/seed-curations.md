@@ -22,7 +22,7 @@ sections:
       - label: read more
         altText: ''
         url: /seed-curations/consilience-as-a-unifying-principle/
-        showIcon: true
+        showIcon: false
         icon: arrowRight
         iconPosition: right
         style: secondary
