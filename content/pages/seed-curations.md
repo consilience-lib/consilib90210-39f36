@@ -27,6 +27,7 @@ sections:
         url: /how-to-contribute
       - type: Label
         label: further learning
+        url: fur
       - type: Label
         label: Stackbit
       - type: Label
