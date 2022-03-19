@@ -7,7 +7,74 @@ metaTags: []
 title: How to Contribute
 colors: colors-a
 backgroundImage:
-  url: /images/bg2.jpg
+  url: ## Seed Curator
+
+As someone who has been contributing to Token Engineering in its transdisciplinary fields, you can choose to contribute by sharing your expertise with our Library learners. To start curating:
+
+1. **Decide where you would like to [focus your curation on](https://www.notion.so/75e39842479c4da9b2519f75af484592):**
+    
+    a. You can choose which petal/area of the crypto-economic flower.
+    
+    b. You can create an original curation focus, with an underlying principle or theory that links together several crypto-economic patterns or disciplines.
+    
+
+![[Cryptoeconomics Foundations Paper](https://epub.wu.ac.at/7309/8/Foundations%20of%20Cryptoeconomic%20Systems.pdf), by S. Voshmigr and M. Zargham](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1ad152b6-19bd-4872-8bf5-f5e84c80efcb/ExG8RtAWYAAskct.jpeg)
+
+[Cryptoeconomics Foundations Paper](https://epub.wu.ac.at/7309/8/Foundations%20of%20Cryptoeconomic%20Systems.pdf), by S. Voshmigr and M. Zargham
+
+2. **Add resources directly related to the area you have chosen.** These could be academic papers, blog posts, excerpts from books, videos etc.
+
+a. You can choose to add your own content.
+
+b. You can also choose to add others’ content.
+
+For both a and b, we encourage that you include a curator’s explanation on why you think those resources are important. Try to keep the number of your resources chosen between 5 and 10 (we know, it’ll be hard!).
+
+3. If you are already leading a **learning session** within your online groups which you think may be a great addition for the library’s goal and a great resource for all token engineers, please **add it on the [library learning calendar](https://www.notion.so/62f92f29e6264f4889070c91eac44852)**.
+
+4. **Save your seed curation. You are one of the first!**
+
+- Community Curator
+    
+    If you’re relatively new to Token Engineering, you can still become a curator. To start curating:
+    1. **Choose an area of focus from the Seed Curations.**
+    
+    [](https://www.notion.so/75e39842479c4da9b2519f75af484592) 
+    
+    1. **Read through the material**, and **share your feedback** in the comments section of the focus you have chosen. This helps our Seed Curators clarify the ideas they are trying to communicate in a manner that is easily understandable by people of all technical levels.
+- Ethics Participatory Research
+- Omega Working Group
+- Token Engineering Advisor
+- Omega Bounties
+
+Become part of focus groups that hold bi-weekly sensema
+
+---
+
+1- **As a seed curator** (i.e. someone who has been contributing to Token Engineering in its transdisciplinary fields)
+
+The resources you pick and annotations you provide are immensely valuable to see the connection and how we came to call this Token Engineering
+
+You might pick a petal of the cryptoeconomics flower, or create a unique curation that tags the resources into one or more of the cryptoeconomic patterns.
+
+Feel free to share resources that helped shape your transdisciplinary stance in Token Engineering, and how it has helped to make sense of this paradigm shifts.
+
+2- **As community curator** (i.e. someone relatively new to Token Engineering)
+
+    ...
+
+3- **Design** logos, images for the library. (can be in dework bounties)
+
+4- Or **anything** you believe that can benefit our community. (can be in dework bounties)
+
+- 
+
+<aside>
+🔑 You can take a look at Library Dashboard to find already existing tasks that are suitable to your abilities and interests → [TE Consilience Library Dashboard](https://www.notion.so/TE-Consilience-Library-Dashboard-6b289f5a29f24b598fe403d052f08c5c)
+
+</aside>
+
+---
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
