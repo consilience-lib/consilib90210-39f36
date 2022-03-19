@@ -43,9 +43,6 @@ sections:
     colors: colors-f
     items:
       - type: Label
-        label: consilience library
-        url: /home
-      - type: Label
         label: seed curations
         url: /seed-curations
 layout: PageLayout
