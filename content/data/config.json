@@ -46,7 +46,7 @@
                 "type": "Button"
             },
             {
-                "label": "Learn more",
+                "label": "contribute",
                 "altText": "",
                 "url": "/how-to-contribute",
                 "showIcon": false,
