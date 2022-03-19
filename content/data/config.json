@@ -68,7 +68,7 @@
                 "type": "Button"
             },
             {
-                "label": "Learn more",
+                "label": "calendar",
                 "altText": "",
                 "url": "/",
                 "showIcon": false,
