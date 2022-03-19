@@ -46,7 +46,7 @@ sections:
         url: /start-here
       - type: Label
         label: manifesto
-        url: te-consilience-library-manifesto/
+        url: /te-consilience-library-manifesto
       - type: Label
         label: Microsoft Office
       - type: Label
