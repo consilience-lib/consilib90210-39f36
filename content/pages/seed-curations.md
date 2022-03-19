@@ -15,7 +15,6 @@ backgroundImage:
 sections:
   - colors: colors-f
     elementId: ''
-    subtitle: The section subtitle
     items:
       - type: Label
         label: start here
