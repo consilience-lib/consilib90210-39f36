@@ -26,7 +26,7 @@ sections:
         label: how to contribute
         url: /how-to-contribute
       - type: Label
-        label: Next.js
+        label: further learning
       - type: Label
         label: Stackbit
       - type: Label
