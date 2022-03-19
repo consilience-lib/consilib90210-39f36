@@ -85,7 +85,7 @@ sections:
 
 
       [Join a Learning
-      Group](https://www.notion.so/942f044598924024a80b17fcbf89df3b)
+      Group](/learn)
 
 
       ## How to contribute
