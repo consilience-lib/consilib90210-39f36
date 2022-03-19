@@ -90,16 +90,6 @@
                 "type": "Button"
             },
             {
-                "label": "promo",
-                "altText": "",
-                "url": "/promo",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": "",
-                "type": "Link"
-            },
-            {
                 "label": "tasks",
                 "altText": "",
                 "url": "/tasks",
