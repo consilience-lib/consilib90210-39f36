@@ -48,7 +48,5 @@ sections:
       - type: Label
         label: seed curations
         url: /seed-curations
-      - type: Label
-        label: Swift
 layout: PageLayout
 ---
