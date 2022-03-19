@@ -33,6 +33,7 @@ sections:
         url: calendar
       - type: Label
         label: tasks
+        url: tasks
       - type: Label
         label: C++
       - type: Label
