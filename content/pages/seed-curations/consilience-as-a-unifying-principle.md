@@ -46,7 +46,7 @@ sections:
         label: seed curations
         url: /seed-curations
       - type: Label
-        label: Microsoft Office
+        label: consilience library
         url: /home
       - type: Label
         label: Next.js
