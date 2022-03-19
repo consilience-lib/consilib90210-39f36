@@ -30,6 +30,7 @@ sections:
         url: further-learning
       - type: Label
         label: learning calendar
+        url: learning-calendar
       - type: Label
         label: Pancakes
       - type: Label
