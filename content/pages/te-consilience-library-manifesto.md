@@ -51,9 +51,6 @@ sections:
       *   Operations Research & Management Science
 
 
-      ![](/images/flower4l.png)
-
-
 
 
       Throughout these three phases, subject-matter experts (SMEs) and
