@@ -7,7 +7,7 @@ metaTags: []
 title: How to Contribute
 colors: colors-a
 backgroundImage:
-  url: /images/bg2.jpg
+  url: https://arweave.net/dn6z-GqVMI3psbX_EM4SsyeMENyI_MCTcaweuP61pR0
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
