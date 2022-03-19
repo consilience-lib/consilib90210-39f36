@@ -10,7 +10,7 @@
             {
                 "label": "Learn more",
                 "altText": "",
-                "url": "/",
+                "url": "/tasks",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
