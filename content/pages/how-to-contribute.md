@@ -40,5 +40,6 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
+    title: how to contribute
 layout: PageLayout
 ---
