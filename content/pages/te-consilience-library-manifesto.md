@@ -266,7 +266,7 @@ sections:
     media:
       url: /images/flower4l.png
       altText: flowr
-      caption: Caption of the image
+      caption: flower
       elementId: ''
       type: ImageBlock
     styles:
