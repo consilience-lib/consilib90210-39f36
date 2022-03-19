@@ -15,29 +15,6 @@ backgroundImage:
 sections:
   - colors: colors-a
     elementId: ''
-    images: []
-    spacing: 16
-    columns: 1
-    aspectRatio: '4:3'
-    showCaption: false
-    enableHover: true
-    styles:
-      self:
-        height: auto
-        width: full
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-    type: MediaGallerySection
-  - colors: colors-a
-    elementId: ''
     backgroundSize: inset
     title: |
       TE Consilience Library Manifesto
