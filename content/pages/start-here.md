@@ -98,7 +98,7 @@ sections:
 
 
       Read more about how to contribute to the library
-      [here](https://www.notion.so/How-to-Contribute-8128601bf71543e68f84be48e237cadc).
+      [here](/contribute).
 
 
       [How to Contribute
