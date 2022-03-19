@@ -57,7 +57,7 @@
                 "type": "Button"
             },
             {
-                "label": "Learn more",
+                "label": "learn",
                 "altText": "",
                 "url": "/learning",
                 "showIcon": false,
