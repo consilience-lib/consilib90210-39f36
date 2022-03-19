@@ -23,7 +23,7 @@ sections:
         label: manifesto
         url: /te-consilience-library-manifesto
       - type: Label
-        label: Microsoft Office
+        label: how to contribute
       - type: Label
         label: Next.js
       - type: Label
