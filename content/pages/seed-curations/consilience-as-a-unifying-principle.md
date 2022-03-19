@@ -47,6 +47,7 @@ sections:
         url: /seed-curations
       - type: Label
         label: Microsoft Office
+        url: ho
       - type: Label
         label: Next.js
       - type: Label
