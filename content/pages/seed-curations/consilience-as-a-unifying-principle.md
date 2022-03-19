@@ -49,8 +49,6 @@ sections:
         label: seed curations
         url: /seed-curations
       - type: Label
-        label: Stackbit
-      - type: Label
         label: Pancakes
       - type: Label
         label: C++
