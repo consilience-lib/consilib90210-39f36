@@ -24,7 +24,7 @@ sections:
         url: /te-consilience-library-manifesto
       - type: Label
         label: contribute
-        url: /how-to-contribute
+        url: contribute
       - type: Label
         label: learning
         url: learning
