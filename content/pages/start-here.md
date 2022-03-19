@@ -111,7 +111,7 @@ sections:
 
 
       Find the calendar
-      [here](https://www.notion.so/62f92f29e6264f4889070c91eac44852).
+      [here](calendar).
 
 
       There are also more learning opportunities from the initiatives of the
