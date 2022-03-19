@@ -14,7 +14,7 @@ backgroundImage:
   opacity: 80
 sections:
   - type: HeroSection
-    colors: colors-f
+    colors: colors-a
     title: Consilience As A Unifying Principle
     actions: []
     media:
