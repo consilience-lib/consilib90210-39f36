@@ -7,7 +7,7 @@ metaTags: []
 title: Seed Curations
 colors: colors-a
 backgroundImage:
-  url: https://arweave.net/9JOIjeo3nOZvVFTek2ukodm7bwufzjmQkhxJ9U5PleM
+  url: 'https://arweave.net/9JOIjeo3nOZvVFTek2ukodm7bwufzjmQkhxJ9U5PleM'
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
@@ -36,5 +36,41 @@ sections:
         textAlign: left
       text:
         textAlign: left
+  - colors: colors-f
+    elementId: ''
+    title: Skills
+    subtitle: The section subtitle
+    items:
+      - type: Label
+        label: 'WEB 1, 2, 3'
+      - type: Label
+        label: React
+      - type: Label
+        label: Microsoft Office
+      - type: Label
+        label: Next.js
+      - type: Label
+        label: Stackbit
+      - type: Label
+        label: Pancakes
+      - type: Label
+        label: C++
+      - type: Label
+        label: Swift
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+    type: LabelsSection
 layout: PageLayout
 ---
