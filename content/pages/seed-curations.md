@@ -42,7 +42,7 @@ sections:
     subtitle: The section subtitle
     items:
       - type: Label
-        label: home
+        label: start here
         url: /home
       - type: Label
         label: React
