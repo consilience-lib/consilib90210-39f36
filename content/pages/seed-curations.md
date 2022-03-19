@@ -35,7 +35,6 @@ sections:
         label: tasks
         url: tasks
       - type: Label
-        label: comm
         url: presskit
       - type: Label
         label: Swift
