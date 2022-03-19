@@ -127,13 +127,6 @@
                 "type": "Button"
             },
             {
-                "type": "Link",
-                "url": "https://github.com/consilience-lib",
-                "altText": "",
-                "showIcon": true,
-                "icon": "github"
-            },
-            {
                 "label": "seed curations",
                 "altText": "",
                 "url": "/seed-curations",
@@ -143,6 +136,13 @@
                 "style": "secondary",
                 "elementId": "",
                 "type": "Button"
+            },
+            {
+                "type": "Link",
+                "url": "https://github.com/consilience-lib",
+                "altText": "",
+                "showIcon": true,
+                "icon": "github"
             }
         ],
         "copyrightText": "[TEC Omega](https://discord.gg/5Fu7j8SMrv)\n",
