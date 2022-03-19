@@ -40,7 +40,7 @@ sections:
       - type: Label
         label: hire
         url: hire
-      - label: Label title
+      - label: join
         url: ''
     styles:
       self:
