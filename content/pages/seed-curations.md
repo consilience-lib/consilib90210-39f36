@@ -15,7 +15,6 @@ backgroundImage:
 sections:
   - colors: colors-f
     elementId: ''
-    title: Skills
     subtitle: The section subtitle
     items:
       - type: Label
