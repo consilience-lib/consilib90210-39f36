@@ -17,10 +17,6 @@ sections:
     colors: colors-a
     title: Consilience As A Unifying Principle
     actions: []
-    media:
-      type: ImageBlock
-      url: /images/about.jpg
-      altText: Hero image
     backgroundSize: full
     styles:
       self:
