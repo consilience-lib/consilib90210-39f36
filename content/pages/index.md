@@ -1,5 +1,5 @@
 ---
-title: Home
+title: home
 layout: PageLayout
 colors: colors-b
 backgroundImage:
