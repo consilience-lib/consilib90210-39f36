@@ -23,7 +23,7 @@ sections:
         label: manifesto
         url: /te-consilience-library-manifesto
       - type: Label
-        label: how to contribute
+        label: contribute
         url: /how-to-contribute
       - type: Label
         label: learning
