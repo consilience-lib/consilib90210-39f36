@@ -36,38 +36,5 @@ sections:
         textAlign: left
       text:
         textAlign: left
-  - colors: colors-f
-    elementId: ''
-    showDate: false
-    showDescription: true
-    showFeaturedImage: true
-    showReadMoreLink: true
-    variant: variant-a
-    actions:
-      - type: Link
-        label: See all projects
-        altText: See all projects
-        url: /projects
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: center
-    title: null
-    subtitle: 'Projects:'
-    projects:
-      - content/pages/projects/consilience-as-a-unifying-principle.md
-    type: FeaturedProjectsSection
 layout: PageLayout
 ---
