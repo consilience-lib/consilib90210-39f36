@@ -82,13 +82,13 @@ sections:
 
       The [current funding
       proposal](https://forum.tecommons.org/t/te-consilience-library-an-0mega-wg-initiative/751),
-      if passed, will cover the funding needs for \*\*\*\*the **first phase** of
-      the initiative, where SME contributors will curate book summaries from
-      texts of their choice. In the **second phase**, we will open the library
-      to public contributions. Also, we will reward quality contributions at
-      that stage. If the library is liked by the community we will initiate
-      **phase three** which will bring further development in UX such as dynamic
-      NFT profiles.
+      if passed, will cover the funding needs for the **first phase** of the
+      initiative, where SME contributors will curate book summaries from texts
+      of their choice. In the **second phase**, we will open the library to
+      public contributions. Also, we will reward quality contributions at that
+      stage. If the library is liked by the community we will initiate **phase
+      three** which will bring further development in UX such as dynamic NFT
+      profiles.
 
 
       ### **DEEP DIVE**
