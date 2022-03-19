@@ -90,7 +90,7 @@
                 "type": "Button"
             },
             {
-                "label": "Learn more",
+                "label": "promo",
                 "altText": "",
                 "url": "/",
                 "showIcon": false,
