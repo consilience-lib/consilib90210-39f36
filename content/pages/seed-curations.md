@@ -39,6 +39,7 @@ sections:
         label: promo
       - type: Label
         label: hire
+        url: hire
     styles:
       self:
         height: auto
