@@ -79,7 +79,7 @@
                 "type": "Button"
             },
             {
-                "label": "Learn more",
+                "label": "join",
                 "altText": "",
                 "url": "/",
                 "showIcon": false,
