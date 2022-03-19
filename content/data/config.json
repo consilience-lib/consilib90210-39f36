@@ -105,9 +105,9 @@
                 "type": "Button"
             },
             {
-                "label": "join",
+                "label": "hire",
                 "altText": "",
-                "url": "/join",
+                "url": "/hire",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -116,9 +116,9 @@
                 "type": "Button"
             },
             {
-                "label": "hire",
+                "label": "join",
                 "altText": "",
-                "url": "/hire",
+                "url": "/join",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
