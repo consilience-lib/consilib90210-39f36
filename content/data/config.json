@@ -22,6 +22,16 @@
                 "altText": "",
                 "showIcon": true,
                 "icon": "github"
+            },
+            {
+                "label": "Learn more",
+                "altText": "",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": "",
+                "type": "Link"
             }
         ],
         "copyrightText": "[TEC Omega](https://discord.gg/5Fu7j8SMrv)\n",
