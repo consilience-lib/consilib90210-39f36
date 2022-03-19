@@ -24,6 +24,7 @@ sections:
         url: /te-consilience-library-manifesto
       - type: Label
         label: how to contribute
+        url: /how to contribute
       - type: Label
         label: Next.js
       - type: Label
