@@ -100,7 +100,7 @@
                 "type": "Link"
             },
             {
-                "label": "Learn more",
+                "label": "tasks",
                 "altText": "",
                 "url": "/tasks",
                 "showIcon": false,
