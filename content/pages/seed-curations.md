@@ -29,7 +29,7 @@ sections:
         label: further learning
         url: further-learning
       - type: Label
-        label: Stackbit
+        label: learning calendar
       - type: Label
         label: Pancakes
       - type: Label
