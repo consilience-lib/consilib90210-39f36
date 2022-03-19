@@ -51,10 +51,7 @@ sections:
       *   Operations Research & Management Science
 
 
-      <https://lh4.googleusercontent.com/-5qxUivMvcV3jxs8pZaxZ4fGcrglBlnldwO6MCUEmcwV3R6so-hooGzg46yRI2onKR7WeBtnFpH6B_kPPohPuQzSra3_T0V8YoxO53r6tBbTswbZokcnnLxt3n4j4JE0E3L-gQEG>
-
-
-      ![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/74d28f5a-c8a5-4fbc-b2a2-416398bf7fe2/flower4l.png)
+      ![](/images/crypto%20flower.jpg)
 
 
       Throughout these three phases, subject-matter experts (SMEs) and
