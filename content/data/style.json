@@ -62,7 +62,7 @@
     },
     "buttonSecondary": {
         "weight": "normal",
-        "case": "uppercase",
+        "case": "lowercase",
         "letterSpacing": "tighter",
         "horizontalPadding": 3,
         "verticalPadding": 0
