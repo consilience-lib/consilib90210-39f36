@@ -6,18 +6,7 @@
         "isSticky": false,
         "title": "consilience lib",
         "isTitleVisible": false,
-        "primaryLinks": [
-            {
-                "label": "Learn more",
-                "altText": "",
-                "url": "/",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": "",
-                "type": "Link"
-            }
-        ],
+        "primaryLinks": [],
         "socialLinks": [],
         "styles": {
             "self": {
