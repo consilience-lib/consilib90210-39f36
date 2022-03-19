@@ -9,7 +9,7 @@
         "letterSpacing": "tighter"
     },
     "h2": {
-        "size": "lg",
+        "size": "4xl",
         "weight": "normal",
         "decoration": "none",
         "case": "capitalize",
