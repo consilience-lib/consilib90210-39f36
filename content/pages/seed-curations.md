@@ -43,7 +43,7 @@ sections:
       - label: join
         url: join
       - label: contact
-        url: ''
+        url: contact
     styles:
       self:
         height: auto
