@@ -40,6 +40,8 @@ sections:
       - type: Label
         label: hire
         url: hire
+      - label: Label title
+        url: ''
     styles:
       self:
         height: auto
