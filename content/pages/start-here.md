@@ -101,9 +101,6 @@ sections:
       [here](/contribute).
 
 
-      [How to Contribute
-      ](https://www.notion.so/How-to-Contribute-8128601bf71543e68f84be48e237cadc)
-
 
       ## More ways to learn
 
