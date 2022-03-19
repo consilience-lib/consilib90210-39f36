@@ -45,6 +45,7 @@ sections:
     items:
       - type: Label
         label: seed curations
+        url: /seed-curations
       - type: Label
         label: React
       - type: Label
