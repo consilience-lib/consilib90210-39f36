@@ -15,9 +15,7 @@ backgroundImage:
 sections:
   - type: HeroSection
     colors: colors-f
-    title: >-
-      I'm a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+    title: Consilience As A Unifying Principle
     actions: []
     media:
       type: ImageBlock
