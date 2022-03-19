@@ -29,14 +29,6 @@ sections:
         iconPosition: right
         style: primary
         type: Button
-      - label: Learn more
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
     styles:
       self:
         height: auto
