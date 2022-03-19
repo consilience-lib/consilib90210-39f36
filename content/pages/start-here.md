@@ -25,12 +25,9 @@ sections:
 
       We believe in the value of the wisdom of the crowd and the contextuality
       of perspective. For this reason, this *first iteration* of our library is
-      sourced by subject matter experts, our [seed
-      curators](https://www.notion.so/How-to-Contribute-8128601bf71543e68f84be48e237cadc).
-      They collect articles relevant to an area of the crypto-economic flower,
-      that they feel will enrich our understanding of the topic.
-
-
+      sourced by subject matter experts, our [seed curators](/contribute). They
+      collect articles relevant to an area of the crypto-economic flower, that
+      they feel will enrich our understanding of the topic.
 
 
       !\[by Shermin Voshmgir and Michael Zargham from
@@ -45,11 +42,8 @@ sections:
 
 
       Read more about our library manifesto
-      [here](https://www.notion.so/TE-Consilience-Library-Manifesto-cccda57eec194517ab26c55ed883d7d5).
+      [here](/TE-Consilience-Library-Manifesto).
 
-
-      [TE Consilience Library Manifesto
-      ](https://www.notion.so/TE-Consilience-Library-Manifesto-cccda57eec194517ab26c55ed883d7d5)
 
 
       We recommend learning from resources from all areas of the crypto-economic
@@ -60,9 +54,8 @@ sections:
 
 
       In order to make your learning experience easier and more fun, you can
-      form [learning
-      groups](https://www.notion.so/942f044598924024a80b17fcbf89df3b) to help
-      each other become more successful. Within these learning groups, you can:
+      form [learning groups](/learn) to help each other become more successful.
+      Within these learning groups, you can:
 
 
       *   help answer each others’ questions and help each other get unstuck
@@ -80,12 +73,10 @@ sections:
       as a Token Engineer.
 
 
-      Form groups
-      [here](/join).
+      Form groups [here](/join).
 
 
-      [Join a Learning
-      Group](/learn)
+      [Join a Learning Group](/learn)
 
 
       ## How to contribute
@@ -97,8 +88,7 @@ sections:
       gifts, interests and availability.
 
 
-      Read more about how to contribute to the library
-      [here](/contribute).
+      Read more about how to contribute to the library [here](/contribute).
 
 
       ## More ways to learn
@@ -110,14 +100,12 @@ sections:
       practice of Token Engineering.
 
 
-      Find the calendar
-      [here](/calendar).
+      Find the calendar [here](/calendar).
 
 
       There are also more learning opportunities from the initiatives of the
       Token Engineering communities that you can take advantage of
       [here](/learn).
-
     actions: []
     styles:
       self:
