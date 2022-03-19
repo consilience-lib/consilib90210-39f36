@@ -32,7 +32,7 @@ sections:
       type: ImageBlock
       url: >-
         /images/59157-Alan-Watts-Quote-The-future-is-a-concept-it-doesn-t-exist-There-is.jpg
-      altText: Hero image
+      altText: unifying
     styles:
       self:
         height: auto
