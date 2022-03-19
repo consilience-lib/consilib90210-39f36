@@ -81,7 +81,7 @@ sections:
 
 
       Form groups
-      [here](https://www.notion.so/942f044598924024a80b17fcbf89df3b).
+      [here](/join).
 
 
       [Join a Learning
