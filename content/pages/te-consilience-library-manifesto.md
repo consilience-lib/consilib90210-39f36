@@ -42,7 +42,7 @@ sections:
     title: |
       TE Consilience Library Manifesto
     subtitle: ABSTRACT
-    text: >+
+    text: >
       The **T.E. Consilience Initiative** is an 0mega-led project that intends
       to create a 3-phased, multidisciplinary library that synthesizes relevant
       knowledge for the integral development of cryptoeconomic systems. As shown
@@ -286,7 +286,6 @@ sections:
 
 
       Nic
-
     actions: []
     media: null
     styles:
