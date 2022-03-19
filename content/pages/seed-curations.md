@@ -13,7 +13,7 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 80
 sections:
-  - colors: colors-c
+  - colors: colors-f
     elementId: ''
     backgroundSize: full
     title: consilience as a unifying principle
