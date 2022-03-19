@@ -125,15 +125,7 @@ sections:
 
       [Further
       Learning](https://www.notion.so/Further-Learning-09e21447b5c0427e8a089f7f2369f93a)
-    actions:
-      - label: Join a learning group
-        altText: ''
-        url: /join-a-learning-group
-        showIcon: true
-        icon: chevronRight
-        iconPosition: right
-        elementId: ''
-        type: Link
+    actions: []
     styles:
       self:
         height: auto
