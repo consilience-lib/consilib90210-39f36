@@ -13,7 +13,7 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 80
 sections:
-  - colors: colors-f
+  - colors: colors-d
     elementId: ''
     backgroundSize: inset
     title: Let's do this
