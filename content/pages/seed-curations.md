@@ -38,7 +38,7 @@ sections:
         url: promo
         label: promo
       - type: Label
-        label: Swift
+        label: hire
     styles:
       self:
         height: auto
