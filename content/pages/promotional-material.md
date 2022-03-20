@@ -16,7 +16,7 @@ sections:
   - colors: colors-f
     elementId: ''
     backgroundSize: inset
-    title: pormotional material
+    title: promotional material
     text: null
     actions: []
     media:
