@@ -18,7 +18,15 @@ sections:
     backgroundSize: inset
     title: Hire a token engineer
     text: null
-    actions: []
+    actions:
+      - label: Learn more
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
+        type: Link
     media: null
     styles:
       self:
