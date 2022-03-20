@@ -9,7 +9,7 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 sections:
-  - colors: colors-a
+  - colors: colors-f
     elementId: ''
     variant: variant-a
     subtitle: consilience library
