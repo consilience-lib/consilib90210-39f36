@@ -7,7 +7,7 @@ metaTags: []
 title: start here
 colors: colors-a
 backgroundImage:
-  url: 'https://arweave.net/gituGar6QIyhDLhvZ4TdKdjo-rwpcWwTytYj7ddrz4E'
+  url: 'https://arweave.net/vx1-NEnbgpvxQw6T_reuCwazemGuno7esrdT3JsOY18'
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
