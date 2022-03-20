@@ -59,7 +59,7 @@ sections:
         type: Button
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/flower5l.png
       altText: Hero image
     styles:
       self:
