@@ -35,7 +35,7 @@ sections:
       Systems](https://epub.wu.ac.at/7782/1/Foundations%20of%20Cryptoeconomic%20Systems.pdf)
 
 
-      Read more about our library manifesto
+      ###### Read more about our library manifesto
       [here](/te-consilience-library-manifesto/).
 
 
