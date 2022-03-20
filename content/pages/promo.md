@@ -21,10 +21,6 @@ sections:
       ![](/images/flower4l.png)
 
     actions: []
-    media:
-      type: ImageBlock
-      url: /images/tec.png
-      altText: tec
     styles:
       self:
         height: auto
