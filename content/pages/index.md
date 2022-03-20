@@ -40,14 +40,6 @@ sections:
       *Where we explore complexities of Token engineering*
     actions:
       - label: start here
-        altText: start
-        url: /start-here
-        showIcon: true
-        icon: chevronRight
-        iconPosition: right
-        elementId: ''
-        type: Link
-      - label: start here
         altText: ''
         url: /start-here
         showIcon: false
