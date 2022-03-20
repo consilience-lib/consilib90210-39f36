@@ -46,7 +46,7 @@ sections:
       - label: contact
         altText: ''
         url: /contact
-        showIcon: true
+        showIcon: false
         icon: arrowRight
         iconPosition: right
         style: primary
