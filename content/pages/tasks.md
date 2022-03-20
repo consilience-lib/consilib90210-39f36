@@ -15,7 +15,7 @@ backgroundImage:
 sections:
   - colors: colors-a
     elementId: ''
-    backgroundSize: inset
+    backgroundSize: full
     title: tasks
     actions: []
     media: null
