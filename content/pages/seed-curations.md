@@ -68,7 +68,7 @@ sections:
     actions:
       - label: read more
         altText: ''
-        url: /
+        url: /seed-curations/ai-optimization-control-theory
         showIcon: true
         icon: arrowRight
         iconPosition: right
