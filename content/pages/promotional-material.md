@@ -60,7 +60,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/tec.png
-      altText: Hero image
+      altText: tec
     styles:
       self:
         height: auto
