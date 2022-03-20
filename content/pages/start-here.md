@@ -36,7 +36,7 @@ sections:
 
 
       Read more about our library manifesto
-      [here](/te-Consilience-Library-Manifesto).
+      [here](/te-consilience-library-manifesto/).
 
 
       We recommend learning from resources from all areas of the crypto-economic
