@@ -18,8 +18,8 @@ export default function Header(props) {
         >
             <div
                 className={classNames('mx-auto', mapMaxWidthStyles(headerWidth), {
-                    'x0:border-0 x0:border-r border-current': headerWidth === 'narrow',
-                    '2x0:border-0 2x0:border-r border-current': headerWidth === 'wide'
+                    'xl:border-l xl:border-r border-current': headerWidth === 'narrow',
+                    '2xl:border-l 2xl:border-r border-current': headerWidth === 'wide'
                 })}
             >
                 <Link href="#main" className="sr-only">
@@ -58,12 +58,12 @@ function HeaderVariantA(props) {
         <div className="flex items-stretch relative">
             <SiteLogoLink {...logoProps} />
             {primaryLinks.length > 0 && (
-                <ul className="hidden lg:flex divide-x divide-current border-0 border-current" data-sb-field-path=".primaryLinks">
+                <ul className="hidden lg:flex divide-x divide-current border-r border-current" data-sb-field-path=".primaryLinks">
                     <ListOfLinks links={primaryLinks} inMobileMenu={false} />
                 </ul>
             )}
             {socialLinks.length > 0 && (
-                <ul className="hidden lg:flex border-0 border-current ml-auto" data-sb-field-path=".socialLinks">
+                <ul className="hidden lg:flex border-l border-current ml-auto" data-sb-field-path=".socialLinks">
                     <ListOfSocialLinks links={socialLinks} inMobileMenu={false} />
                 </ul>
             )}
@@ -78,7 +78,7 @@ function HeaderVariantB(props) {
         <div className="flex items-stretch relative">
             <SiteLogoLink {...logoProps} />
             {primaryLinks.length > 0 && (
-                <ul className="hidden lg:flex border-0 border-current divide-x divide-current ml-auto" data-sb-field-path=".primaryLinks">
+                <ul className="hidden lg:flex border-l border-current divide-x divide-current ml-auto" data-sb-field-path=".primaryLinks">
                     <ListOfLinks links={primaryLinks} inMobileMenu={false} />
                 </ul>
             )}
@@ -109,7 +109,7 @@ function HeaderVariantC(props) {
             )}
             {primaryLinks.length > 0 && (
                 <ul
-                    className={classNames('hidden', 'lg:flex', 'border-0', 'border-current', 'divide-x', 'divide-current', {
+                    className={classNames('hidden', 'lg:flex', 'border-l', 'border-current', 'divide-x', 'divide-current', {
                         'ml-auto': primaryLinks.length === 0
                     })}
                     data-sb-field-path=".primaryLinks"
