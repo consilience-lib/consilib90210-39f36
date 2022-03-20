@@ -15,7 +15,7 @@ backgroundImage:
 sections:
   - colors: colors-f
     elementId: ''
-    backgroundSize: inset
+    backgroundSize: full
     title: consilience as a unifying principle
     text: null
     actions:
