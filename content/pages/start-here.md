@@ -15,7 +15,7 @@ backgroundImage:
 sections:
   - colors: colors-a
     elementId: ''
-    backgroundSize: inset
+    backgroundSize: full
     text: >
       Token Engineering is an emerging discipline and the pattern of practice is
       still emerging. The TE Consilience Library is a crowdsourced, curated
