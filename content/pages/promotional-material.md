@@ -17,7 +17,9 @@ sections:
     elementId: ''
     backgroundSize: inset
     title: promotional material
-    text: null
+    text: |+
+      ![](/images/flower4l.png)
+
     actions: []
     media:
       type: ImageBlock
