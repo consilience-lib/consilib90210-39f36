@@ -15,7 +15,7 @@ backgroundImage:
 sections:
   - type: HeroSection
     colors: colors-a
-    title: Consilience As A Unifying Principle
+    title: 'AI, Optimization & Control Theory by Zargham'
     actions: []
     backgroundSize: full
     styles:
