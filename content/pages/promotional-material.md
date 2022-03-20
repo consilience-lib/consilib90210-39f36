@@ -7,7 +7,7 @@ metaTags: []
 title: 'Promotional Material '
 colors: colors-a
 backgroundImage:
-  url: /images/bg2.jpg
+  url: https://arweave.net/8c--4Ur9U7zgzPA-9vNo3Gh5ScDqEOf_MMzTJMfY_Lw
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
