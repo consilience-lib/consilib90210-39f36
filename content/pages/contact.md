@@ -18,7 +18,7 @@ sections:
     backgroundSize: inset
     title: contact
     text: |
-      add contact page info
+      join our tec omega group on [discord](https://discord.gg/5Fu7j8SMrv)
     actions: []
     media:
       url: /images/flower4l.png
