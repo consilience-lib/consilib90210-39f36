@@ -7,7 +7,15 @@
         "title": "consilience lib",
         "isTitleVisible": false,
         "primaryLinks": [],
-        "socialLinks": [],
+        "socialLinks": [
+            {
+                "label": "Facebook",
+                "altText": "",
+                "url": "/",
+                "icon": "facebook",
+                "elementId": ""
+            }
+        ],
         "styles": {
             "self": {
                 "width": "full"
