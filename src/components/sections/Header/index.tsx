@@ -109,7 +109,7 @@ function HeaderVariantC(props) {
             )}
             {primaryLinks.length > 0 && (
                 <ul
-                    className={classNames('hidden', 'lg:flex', 'border-l', 'border-current', 'divide-x', 'divide-current', {
+                    className={classNames('hidden', 'lg:flex', 'border-0', 'border-current', 'divide-x', 'divide-current', {
                         'ml-auto': primaryLinks.length === 0
                     })}
                     data-sb-field-path=".primaryLinks"
