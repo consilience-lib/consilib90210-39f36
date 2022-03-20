@@ -124,7 +124,7 @@ sections:
     title: this is only the beginning
     media:
       url: /images/crypto flower.jpg
-      altText: altText of the image
+      altText: cryptoflow
       caption: Caption of the image
       elementId: ''
       type: ImageBlock
