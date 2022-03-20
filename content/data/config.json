@@ -30,7 +30,7 @@
             {
                 "label": "Learn more",
                 "altText": "",
-                "url": "/",
+                "url": "/cont",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
