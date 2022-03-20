@@ -36,7 +36,7 @@ sections:
         textAlign: left
       text:
         textAlign: left
-  - colors: colors-f
+  - colors: colors-a
     elementId: ''
     backgroundSize: inset
     title: >-
