@@ -47,7 +47,7 @@ sections:
         iconPosition: right
         elementId: ''
         type: Link
-      - label: Learn more
+      - label: start here
         altText: ''
         url: /
         showIcon: false
