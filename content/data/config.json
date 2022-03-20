@@ -16,6 +16,17 @@
                 "label": "Info",
                 "url": "/",
                 "altText": "Info"
+            },
+            {
+                "label": "Learn more",
+                "altText": "",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "primary",
+                "elementId": "",
+                "type": "Button"
             }
         ],
         "copyrightText": "[consilience library](/home)\n",
