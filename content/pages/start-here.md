@@ -30,20 +30,12 @@ sections:
       they feel will enrich our understanding of the topic.
 
 
-      !\[by Shermin Voshmgir and Michael Zargham from
-      <https://epub.wu.ac.at/7309/8/Foundations> of Cryptoeconomic Systems.pdf
-
-
-      ]\(<https://s3-us-west-2.amazonaws.com/secure.notion-static.com/526ccabb-61ba-4047-9a9f-27731e977896/ExG8RtAWYAAskct.jpeg>)
-
-
-      by Shermin Voshmgir and Michael Zargham from
+      ![by Shermin Voshmgir and Michael Zargham from
       <https://epub.wu.ac.at/7309/8/Foundations> of Cryptoeconomic Systems.pdf
 
 
       Read more about our library manifesto
       [here](/TE-Consilience-Library-Manifesto).
-
 
 
       We recommend learning from resources from all areas of the crypto-economic
