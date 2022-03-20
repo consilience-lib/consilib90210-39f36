@@ -66,7 +66,7 @@ sections:
 
       Conlucios
     media:
-      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      url: /images/0_B-TefEbzo-9WQ6_t.jpeg
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
