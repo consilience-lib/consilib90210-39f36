@@ -40,5 +40,10 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
+    text: |+
+      ```
+      get things done..
+      ```
+
 layout: PageLayout
 ---
