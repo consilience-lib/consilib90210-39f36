@@ -17,7 +17,6 @@ sections:
     elementId: ''
     backgroundSize: inset
     title: tasks
-    text: null
     actions: []
     media: null
     styles:
