@@ -41,7 +41,7 @@ sections:
     type: HeroSection
     title: how to contribute
     media:
-      title: satoriD
+      title: satori D
       url: ' https://www.youtube.com/watch?v=AWb4yTnTyM0'
       autoplay: false
       loop: false
