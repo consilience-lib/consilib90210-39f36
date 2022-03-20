@@ -1,26 +1,6 @@
 {
     "type": "Config",
     "favicon": "/images/flower5l.png",
-    "header": {
-        "headerVariant": "variant-a",
-        "isSticky": false,
-        "title": "consilience lib",
-        "isTitleVisible": false,
-        "primaryLinks": [],
-        "socialLinks": [
-            {
-                "altText": "",
-                "url": "https://github.com/consilience-lib",
-                "icon": "github",
-                "elementId": ""
-            }
-        ],
-        "styles": {
-            "self": {
-                "width": "full"
-            }
-        }
-    },
     "defaultSocialImage": "/images/flower5l.png",
     "titleSuffix": "consilience library",
     "footer": {
