@@ -42,7 +42,7 @@ sections:
     title: how to contribute
     media:
       title: Title of the video
-      url: 'https://youtu.be/CXnUX2EkicE'
+      url: ' https://www.youtube.com/watch?v=AWb4yTnTyM0'
       autoplay: false
       loop: false
       muted: false
