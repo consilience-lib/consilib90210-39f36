@@ -54,7 +54,7 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-  - colors: colors-c
+  - colors: colors-f
     elementId: ''
     backgroundSize: inset
     title: >-
