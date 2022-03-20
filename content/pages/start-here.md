@@ -30,8 +30,8 @@ sections:
       they feel will enrich our understanding of the topic.
 
 
-      ![](/images/crypto%20flower.jpg)by Shermin Voshmgir and Michael Zargham
-      from [Foundations of Cryptoeconomic
+      by Shermin Voshmgir and Michael Zargham from [Foundations of
+      Cryptoeconomic
       Systems](https://epub.wu.ac.at/7782/1/Foundations%20of%20Cryptoeconomic%20Systems.pdf)
 
 
