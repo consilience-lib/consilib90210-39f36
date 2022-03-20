@@ -15,7 +15,7 @@ backgroundImage:
 sections:
   - colors: colors-a
     elementId: ''
-    backgroundSize: inset
+    backgroundSize: full
     title: contact
     text: |
       join our tec omega group on [discord](https://discord.gg/5Fu7j8SMrv)
