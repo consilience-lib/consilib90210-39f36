@@ -13,7 +13,7 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 80
 sections:
-  - colors: colors-f
+  - colors: colors-a
     elementId: ''
     backgroundSize: full
     title: Learning calendar
