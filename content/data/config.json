@@ -35,7 +35,7 @@
                 "width": "narrow",
                 "padding": [
                     "pt-16",
-                    "pb-0",
+                    "pb-1",
                     "pl-4",
                     "pr-4"
                 ]
