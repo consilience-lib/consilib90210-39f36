@@ -90,7 +90,7 @@
             {
                 "label": "seed curations",
                 "altText": "",
-                "url": "/",
+                "url": "/see-curations",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
