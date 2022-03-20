@@ -17,9 +17,8 @@ sections:
     elementId: ''
     backgroundSize: inset
     title: contact
-    text: |+
-      contqct page info
-
+    text: |
+      add contact page info
     actions: []
     media:
       url: /images/flower4l.png
