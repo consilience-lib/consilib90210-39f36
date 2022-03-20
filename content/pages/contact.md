@@ -7,7 +7,7 @@ metaTags: []
 title: Contact
 colors: colors-a
 backgroundImage:
-  url: https://arweave.net/gsuwkY-aSBpaNMlmy7iMZeC34cTmKYnWgo6bNY7kT74
+  url: 'https://arweave.net/gsuwkY-aSBpaNMlmy7iMZeC34cTmKYnWgo6bNY7kT74'
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
@@ -45,7 +45,7 @@ sections:
 
     actions: []
     media:
-      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      url: /images/flower4l.png
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
