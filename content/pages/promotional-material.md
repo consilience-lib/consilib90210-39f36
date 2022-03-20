@@ -18,16 +18,7 @@ sections:
     backgroundSize: inset
     title: pormotional material
     text: null
-    actions:
-      - label: Hire me
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Button
+    actions: []
     media:
       type: ImageBlock
       url: /images/tec.png
