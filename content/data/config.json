@@ -18,12 +18,6 @@
                 "altText": "Info"
             }
         ],
-        "contacts": {
-            "phoneNumber": "850-123-5021",
-            "phoneAltText": "Call us",
-            "email": "john@doe.com",
-            "emailAltText": "Email us"
-        },
         "copyrightText": "Copyright text",
         "styles": {
             "self": {
