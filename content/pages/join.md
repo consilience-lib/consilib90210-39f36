@@ -43,7 +43,7 @@ sections:
     subtitle: info
     text: null
     actions:
-      - label: Hire me
+      - label: contact
         altText: ''
         url: /contact
         showIcon: true
