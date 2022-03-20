@@ -7,7 +7,7 @@ metaTags: []
 title: Tasks
 colors: colors-a
 backgroundImage:
-  url: /images/bg2.jpg
+  url: https://arweave.net/tbNFQ8rUm9XTo-3sYfGsjU9_cFX0y_Uh5uCxDHy7C2o
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
