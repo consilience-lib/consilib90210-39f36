@@ -3,7 +3,7 @@ title: home
 layout: PageLayout
 colors: colors-b
 backgroundImage:
-  url: 'https://arweave.net/vx1-NEnbgpvxQw6T_reuCwazemGuno7esrdT3JsOY18'
+  url: https://arweave.net/Wd5G-Qsxal9ZomsziUQBjnuy-cHviUQswLz06wGN0zk'https://arweave.net/vx1-NEnbgpvxQw6T_reuCwazemGuno7esrdT3JsOY18'
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
