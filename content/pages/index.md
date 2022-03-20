@@ -32,7 +32,7 @@ sections:
       text:
         textAlign: center
     type: TextSection
-  - colors: colors-f
+  - colors: colors-a
     elementId: ''
     backgroundSize: full
     title: Welcome to TEC Consilience Library
