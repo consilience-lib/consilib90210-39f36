@@ -7,7 +7,7 @@ metaTags: []
 title: Learning Calendar
 colors: colors-a
 backgroundImage:
-  url: 'https://arweave.net/F4jdzgLtsHK2AfbI5tY28FJZWDMeC75levrRnC0n7K'
+  url: 'https://arweave.net/F4jdzgLtsHK2AfbI5tY28FJZWDMeC75levrRnC0n7K
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
