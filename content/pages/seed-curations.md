@@ -56,7 +56,7 @@ sections:
     type: HeroSection
   - colors: colors-f
     elementId: ''
-    backgroundSize: inset
+    backgroundSize: full
     title: 'ai, optimization and control theory'
     text: null
     actions:
