@@ -15,7 +15,7 @@ backgroundImage:
 sections:
   - colors: colors-f
     elementId: ''
-    backgroundSize: inset
+    backgroundSize: full
     title: Learning calendar
     text: |+
       link/embed planning/events
