@@ -41,8 +41,7 @@ sections:
     type: HeroSection
     title: how to contribute
     media:
-      title: |
-        Our Evolution Begins (Songs of Eternity)
+      title: satoriD
       url: ' https://www.youtube.com/watch?v=AWb4yTnTyM0'
       autoplay: false
       loop: false
