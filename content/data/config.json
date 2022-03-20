@@ -15,5 +15,39 @@
         }
     },
     "defaultSocialImage": "/images/flower5l.png",
-    "titleSuffix": "consilience library"
+    "titleSuffix": "consilience library",
+    "footer": {
+        "primaryLinks": [
+            {
+                "type": "Link",
+                "label": "Projects",
+                "url": "/",
+                "altText": "Projects"
+            },
+            {
+                "type": "Link",
+                "label": "Info",
+                "url": "/",
+                "altText": "Info"
+            }
+        ],
+        "contacts": {
+            "phoneNumber": "850-123-5021",
+            "phoneAltText": "Call us",
+            "email": "john@doe.com",
+            "emailAltText": "Email us"
+        },
+        "copyrightText": "Copyright text",
+        "styles": {
+            "self": {
+                "width": "narrow",
+                "padding": [
+                    "pt-16",
+                    "pb-16",
+                    "pl-4",
+                    "pr-4"
+                ]
+            }
+        }
+    }
 }
