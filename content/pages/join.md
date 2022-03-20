@@ -45,7 +45,7 @@ sections:
     actions:
       - label: Hire me
         altText: ''
-        url: /
+        url: /contact
         showIcon: true
         icon: arrowRight
         iconPosition: right
