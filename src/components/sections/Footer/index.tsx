@@ -10,7 +10,7 @@ export default function Footer(props) {
             className={classNames('sb-component', 'sb-component-footer', styles.self?.padding ?? 'py-16 px-4')}
             data-sb-field-path={`${annotationPrefix}:footer`}
         >
-            <div className={classNames('border-t-2', 'border-current', 'mx-auto', mapMaxWidthStyles(styles.self?.width ?? 'narrow'))}>
+            <div className={classNames('border-t-0', 'border-current', 'mx-auto', mapMaxWidthStyles(styles.self?.width ?? 'narrow'))}>
                 <div className="flex flex-col md:flex-row md:flex-wrap">
                     {primaryLinks.length > 0 && (
                         <div className={classNames('mt-6', contacts ? 'w-full' : 'md:mr-auto')}>
