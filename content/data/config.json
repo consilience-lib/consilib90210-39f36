@@ -20,7 +20,7 @@
             {
                 "label": "Learn more",
                 "altText": "",
-                "url": "/",
+                "url": "/learn",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
