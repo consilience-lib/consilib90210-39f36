@@ -69,7 +69,7 @@ sections:
       - label: read more
         altText: ''
         url: /seed-curations/ai-optimization-control-theory
-        showIcon: true
+        showIcon: false
         icon: arrowRight
         iconPosition: right
         style: secondary
