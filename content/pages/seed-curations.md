@@ -54,7 +54,7 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-  - colors: colors-f
+  - colors: colors-a
     elementId: ''
     backgroundSize: full
     title: 'ai, optimization and control theory'
