@@ -78,7 +78,7 @@
                 "type": "Link"
             },
             {
-                "label": "Learn more",
+                "label": "tasks",
                 "altText": "",
                 "url": "/",
                 "showIcon": false,
