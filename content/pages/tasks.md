@@ -41,9 +41,7 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     text: |+
-      ```
-      get things done..
-      ```
+      `get things done..`
 
 layout: PageLayout
 ---
