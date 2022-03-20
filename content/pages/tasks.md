@@ -40,8 +40,7 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-    text: |+
-      `get things done..`
-
+    text: |
+      `get things done on dework`
 layout: PageLayout
 ---
