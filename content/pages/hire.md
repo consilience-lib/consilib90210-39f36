@@ -21,7 +21,7 @@ sections:
     actions:
       - label: Learn more
         altText: ''
-        url: /l
+        url: /learn
         showIcon: false
         icon: arrowRight
         iconPosition: right
