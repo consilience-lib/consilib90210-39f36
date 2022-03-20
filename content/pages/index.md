@@ -49,7 +49,7 @@ sections:
         type: Link
       - label: start here
         altText: ''
-        url: /
+        url: /start-here
         showIcon: false
         icon: arrowRight
         iconPosition: right
