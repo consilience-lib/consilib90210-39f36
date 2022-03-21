@@ -248,7 +248,7 @@ sections:
     actions:
       - label: read more
         altText: ''
-        url: /
+        url: /seed-curations/philosophy law and ethics
         showIcon: true
         icon: arrowRight
         iconPosition: right
