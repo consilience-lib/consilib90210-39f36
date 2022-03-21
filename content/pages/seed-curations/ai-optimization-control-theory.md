@@ -73,7 +73,6 @@ sections:
       type: ImageBlock
   - colors: colors-f
     elementId: ''
-    title: Skills
     subtitle: The section subtitle
     items:
       - type: Label
