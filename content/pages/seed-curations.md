@@ -194,7 +194,7 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-  - colors: colors-c
+  - colors: colors-a
     elementId: ''
     backgroundSize: full
     title: Political Science & Governance
