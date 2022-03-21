@@ -162,7 +162,7 @@ sections:
     actions:
       - label: Hire me
         altText: ''
-        url: /seed
+        url: /seed-curations
         showIcon: true
         icon: arrowRight
         iconPosition: right
