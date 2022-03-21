@@ -160,7 +160,7 @@ sections:
     title: psychology and decision science
     text: null
     actions:
-      - label: Hire me
+      - label: read more
         altText: ''
         url: /seed-curations/psychology-and-decision-science
         showIcon: false
