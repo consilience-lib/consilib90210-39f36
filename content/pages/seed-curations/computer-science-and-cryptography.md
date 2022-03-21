@@ -38,8 +38,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    text: |
-      Computer Science & Cryptography by ?
     media:
       url: /images/EYem1njUcAAwBvO.jpg.jpeg
       altText: altText of the image
