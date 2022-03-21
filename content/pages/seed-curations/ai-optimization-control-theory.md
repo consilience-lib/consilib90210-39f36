@@ -71,35 +71,5 @@ sections:
       caption: Caption of the image
       elementId: ''
       type: ImageBlock
-  - colors: colors-f
-    elementId: ''
-    items:
-      - type: Label
-        label: React
-      - type: Label
-        label: Microsoft Office
-      - type: Label
-        label: Next.js
-      - type: Label
-        label: Stackbit
-      - type: Label
-        label: Pancakes
-      - type: Label
-        label: C++
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-36
-          - pb-36
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-    type: LabelsSection
 layout: PageLayout
 ---
