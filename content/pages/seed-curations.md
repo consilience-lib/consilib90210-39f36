@@ -234,6 +234,5 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-    
 layout: PageLayout
 ---
