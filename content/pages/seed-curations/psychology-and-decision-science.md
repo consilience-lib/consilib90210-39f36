@@ -15,7 +15,7 @@ backgroundImage:
 sections:
   - type: HeroSection
     colors: colors-a
-    title: Psychology & Decision Science by Mount Manu
+    title: Psychology & Decision Science
     actions: []
     backgroundSize: full
     styles:
