@@ -46,7 +46,7 @@ sections:
       caption: Caption of the image
       elementId: ''
       type: ImageBlock
-  - colors: colors-c
+  - colors: colors-a
     elementId: ''
     backgroundSize: full
     title: >-
