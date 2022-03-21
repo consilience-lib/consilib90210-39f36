@@ -110,7 +110,7 @@
             {
                 "altText": "",
                 "url": "https://github.com/consilience-lib/consilib90210-39f36",
-                "showIcon": false,
+                "showIcon": true,
                 "icon": "github",
                 "iconPosition": "right",
                 "style": "primary",
