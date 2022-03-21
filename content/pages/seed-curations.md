@@ -202,7 +202,7 @@ sections:
     actions:
       - label: read more
         altText: 'Political Science & Governance by Juanka '
-        url: /seed-curations/political-cience-and-Governance
+        url: /seed-curations/political-science-and-Governance
         showIcon: false
         icon: arrowRight
         iconPosition: right
