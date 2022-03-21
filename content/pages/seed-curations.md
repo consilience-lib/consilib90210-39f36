@@ -368,7 +368,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-        url: /seed-curations/
+        url: /seed-curations/industrial-systems-and-engineering
     media:
       type: ImageBlock
       url: /images/drive.jpeg
