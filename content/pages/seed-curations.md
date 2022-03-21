@@ -111,7 +111,7 @@ sections:
         type: Button
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/EYem1njUcAAwBvO.jpg.jpeg
       altText: Hero image
     styles:
       self:
