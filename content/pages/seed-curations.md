@@ -171,7 +171,7 @@ sections:
         type: Button
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/Consilience Background.png
       altText: Hero image
     styles:
       self:
