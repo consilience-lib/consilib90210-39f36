@@ -323,7 +323,7 @@ sections:
       - label: read more
         altText: ''
         url: /seed-curations/operations-research-and-management science
-        showIcon: true
+        showIcon: false
         icon: arrowRight
         iconPosition: right
         style: primary
