@@ -15,7 +15,7 @@ backgroundImage:
 sections:
   - type: HeroSection
     colors: colors-a
-    title: 'philosophy law and ethics'
+    title: philosophy law and ethics
     actions: []
     backgroundSize: full
     styles:
@@ -41,7 +41,7 @@ sections:
     text: |
       by Letty 
     media:
-      url: /images/EY7FpQEUYAAlNFz.jpeg.jpg
+      url: /images/justice.jpeg
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
