@@ -362,7 +362,7 @@ sections:
     actions:
       - label: read more
         altText: ''
-        url: /
+        url: /INDUSTRIAL SYSTEMS AND ENGINEERING
         showIcon: true
         icon: arrowRight
         iconPosition: right
