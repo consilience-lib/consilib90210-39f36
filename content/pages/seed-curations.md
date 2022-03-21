@@ -233,6 +233,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+  
     type: HeroSection
 layout: PageLayout
 ---
