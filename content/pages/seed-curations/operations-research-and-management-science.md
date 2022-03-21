@@ -15,7 +15,7 @@ backgroundImage:
 sections:
   - type: HeroSection
     colors: colors-a
-    title: Economics and Game Theory
+    title: operations-research-and-management-science
     actions: []
     backgroundSize: full
     styles:
