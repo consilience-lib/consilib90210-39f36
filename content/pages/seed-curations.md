@@ -200,7 +200,7 @@ sections:
     title: Political Science & Governance
     text: null
     actions:
-      - label: Hire me
+      - label: read more
         altText: 'Political Science & Governance by Juanka '
         url: /seed-curations/Political-Science-and-Governance
         showIcon: true
