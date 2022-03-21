@@ -257,7 +257,7 @@ sections:
         type: Button
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/justice.jpeg
       altText: Hero image
     styles:
       self:
