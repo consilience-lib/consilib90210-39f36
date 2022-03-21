@@ -17,9 +17,12 @@ sections:
     elementId: ''
     backgroundSize: full
     title: Learning calendar
-    text: |+
-      link/embed planning/events
+    text: >
+      add link/embed planning/events
 
+
+      view [calendar on
+      notion](https://www.notion.so/62f92f29e6264f4889070c91eac44852?v=6dc8ed13c815457bb108c4dbe8c876cf)
     actions: []
     media: null
     styles:
