@@ -15,7 +15,7 @@ backgroundImage:
 sections:
   - type: HeroSection
     colors: colors-a
-    title: operations-research-and-management-science
+    title: operations research and management science
     actions: []
     backgroundSize: full
     styles:
