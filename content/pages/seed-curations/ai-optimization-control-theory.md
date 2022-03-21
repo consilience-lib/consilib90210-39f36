@@ -86,8 +86,6 @@ sections:
         label: Pancakes
       - type: Label
         label: C++
-      - type: Label
-        label: Swift
     styles:
       self:
         height: auto
