@@ -371,7 +371,7 @@ sections:
         type: Button
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/drive.jpeg
       altText: Hero image
     styles:
       self:
