@@ -41,7 +41,7 @@ sections:
     text: |
       by Juanka 
     media:
-      url: /images/Consilience Background.png
+      url: /images/EY7FpQEUYAAlNFz.jpeg.jpg
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
