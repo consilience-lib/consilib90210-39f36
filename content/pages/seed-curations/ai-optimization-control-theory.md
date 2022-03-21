@@ -17,7 +17,7 @@ sections:
     colors: colors-a
     title: 'AI, Optimization & Control Theory by Zargham'
     actions:
-      - label: Learn more
+      - label: seed curations
         altText: ''
         url: /
         showIcon: false
