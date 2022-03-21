@@ -71,7 +71,7 @@ sections:
       caption: Caption of the image
       elementId: ''
       type: ImageBlock
-    - type: LabelsSection
+  - type: LabelsSection
     colors: colors-f
     items:
       - type: Label
