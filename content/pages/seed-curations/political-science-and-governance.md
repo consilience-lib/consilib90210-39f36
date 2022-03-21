@@ -39,7 +39,7 @@ sections:
       actions:
         justifyContent: flex-start
     text: |
-      by Mount Manu
+      by Juanka 
     media:
       url: /images/Consilience Background.png
       altText: altText of the image
