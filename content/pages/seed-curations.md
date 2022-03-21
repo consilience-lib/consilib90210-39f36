@@ -102,27 +102,7 @@ sections:
     actions:
       - label: read more
         altText: ''
-        url: |+
-          /seed-curations/computer-science-and-cryptography/
-
-
-
-          Publish
-          computer science and cryptography
-
-          Content
-          Title
-          computer science and cryptography
-          Sections
-          computer science and cryptography (Hero)
-          Labels (Labels)
-
-          Add section
-
-          SEO
-
-          Styles
-
+        url: /seed-curations/computer-science-and-cryptography/
         showIcon: false
         icon: arrowRight
         iconPosition: right
