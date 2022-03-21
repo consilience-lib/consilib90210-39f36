@@ -73,7 +73,6 @@ sections:
       type: ImageBlock
   - colors: colors-f
     elementId: ''
-    subtitle: The section subtitle
     items:
       - type: Label
         label: 'WEB 1, 2, 3'
