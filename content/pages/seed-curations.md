@@ -163,7 +163,7 @@ sections:
       - label: Hire me
         altText: ''
         url: /seed-curations/psychology-and-decision-science
-        showIcon: true
+        showIcon: false
         icon: arrowRight
         iconPosition: right
         style: secondary
