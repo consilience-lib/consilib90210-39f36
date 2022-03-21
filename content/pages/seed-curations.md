@@ -322,7 +322,7 @@ sections:
     actions:
       - label: read more
         altText: ''
-        url: /operations-research and management science
+        url: /operations-research-and management science
         showIcon: true
         icon: arrowRight
         iconPosition: right
