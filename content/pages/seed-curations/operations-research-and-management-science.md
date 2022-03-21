@@ -39,7 +39,7 @@ sections:
       actions:
         justifyContent: flex-start
     media:
-      url: /images/IMG_6013.jpg
+      url: /images/astronaut.jpeg
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
