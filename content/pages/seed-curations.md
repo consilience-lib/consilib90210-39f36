@@ -282,7 +282,7 @@ sections:
     actions:
       - label: read more
         altText: ''
-        url: /
+        url: /seed-curations/Economics & Game Theory
         showIcon: true
         icon: arrowRight
         iconPosition: right
