@@ -103,7 +103,7 @@ sections:
       - label: read more
         altText: ''
         url: |+
-          seed-curations/computer-science-and-cryptography/
+          /seed-curations/computer-science-and-cryptography/
 
 
 
