@@ -15,7 +15,7 @@ backgroundImage:
 sections:
   - type: HeroSection
     colors: colors-a
-    title: Psychology & Decision Science
+    title: industrial systems and engineering
     actions: []
     backgroundSize: full
     styles:
