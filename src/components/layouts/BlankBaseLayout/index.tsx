@@ -12,7 +12,7 @@ export default function BlankBaseLayout(props) {
             {page?.backgroundImage && <BackgroundImage {...page?.backgroundImage} />}
             <Head>
                 <title>{page.title}</title>
-                <meta name="description" content="Stackbit Theme" />
+                <meta name="description" content="Consilience Library" />
                 {site.favicon && <link rel="icon" href={site.favicon} />}
             </Head>
             {props.children}
