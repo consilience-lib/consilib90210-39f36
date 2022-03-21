@@ -100,7 +100,7 @@ sections:
     title: computer science and cryptography
     text: null
     actions:
-      - label: Hire me
+      - label: read more
         altText: ''
         url: /
         showIcon: true
