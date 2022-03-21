@@ -4,7 +4,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: computer science and cryptography
+title: psychology and decisioncomputer science and cryptography
 colors: colors-a
 backgroundImage:
   url: 'https://arweave.net/vx1-NEnbgpvxQw6T_reuCwazemGuno7esrdT3JsOY18'
