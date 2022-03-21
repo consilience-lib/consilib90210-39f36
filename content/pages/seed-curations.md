@@ -331,7 +331,7 @@ sections:
         type: Button
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/astronaut.jpeg
       altText: Hero image
     styles:
       self:
