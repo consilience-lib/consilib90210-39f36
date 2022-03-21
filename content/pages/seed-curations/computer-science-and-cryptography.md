@@ -15,7 +15,7 @@ backgroundImage:
 sections:
   - type: HeroSection
     colors: colors-a
-    title: Consilience As A Unifying Principle
+    title: computer science and cryptography
     actions: []
     backgroundSize: full
     styles:
