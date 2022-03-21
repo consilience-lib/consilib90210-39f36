@@ -46,52 +46,6 @@ sections:
       caption: Caption of the image
       elementId: ''
       type: ImageBlock
-  - colors: colors-a
-    elementId: ''
-    backgroundSize: full
-    title: >-
-      I'm a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
-    subtitle: >-
-      This is my info—I'm sharing it all this with ya'll to impress you with all
-      the hard work I've done in the past few years. Once you're impressed, you
-      can continue to scroll down to see more details and credentials about me.
-    text: null
-    actions:
-      - label: Hire me
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Button
-    media:
-      type: ImageBlock
-      url: /images/EY7FpQEUYAAlNFz.jpeg.jpg
-      altText: Hero image
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-36
-          - pb-48
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: HeroSection
   - type: LabelsSection
     colors: colors-f
     items:
