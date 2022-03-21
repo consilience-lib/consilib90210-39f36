@@ -41,7 +41,7 @@ sections:
     text: |
       by Mount Manu
     media:
-      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      url: /images/Consilience Background.png
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
