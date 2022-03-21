@@ -314,7 +314,7 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-  - colors: colors-c
+  - colors: colors-a
     elementId: ''
     backgroundSize: full
     title: operations research and management science
