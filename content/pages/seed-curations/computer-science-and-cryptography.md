@@ -41,7 +41,7 @@ sections:
     text: |
       Computer Science & Cryptography by ?
     media:
-      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      url: /images/EYem1njUcAAwBvO.jpg.jpeg
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
