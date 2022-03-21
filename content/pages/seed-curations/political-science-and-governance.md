@@ -15,7 +15,7 @@ backgroundImage:
 sections:
   - type: HeroSection
     colors: colors-a
-    title: 'Political Science & Governance by Juanka '
+    title: 'Political Science & Governance '
     actions: []
     backgroundSize: full
     styles:
