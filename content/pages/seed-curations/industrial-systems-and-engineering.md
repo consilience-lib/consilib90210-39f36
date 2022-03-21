@@ -39,7 +39,7 @@ sections:
       actions:
         justifyContent: flex-start
     media:
-      url: /images/Consilience Background.png
+      url: /images/drive.jpeg
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
