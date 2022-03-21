@@ -4,7 +4,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: Economics and Game Theory
+title: operations-research-and-management-science
 colors: colors-a
 backgroundImage:
   url: 'https://arweave.net/Wd5G-Qsxal9ZomsziUQBjnuy-cHviUQswLz06wGN0zk'
