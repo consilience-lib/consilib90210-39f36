@@ -320,7 +320,7 @@ sections:
     title: operations research and management science
     text: null
     actions:
-      - label: Hire me
+      - label: read more
         altText: ''
         url: /
         showIcon: true
