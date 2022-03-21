@@ -39,7 +39,7 @@ sections:
       actions:
         justifyContent: flex-start
     text: |
-      by Juanka 
+      by Letty 
     media:
       url: /images/EY7FpQEUYAAlNFz.jpeg.jpg
       altText: altText of the image
