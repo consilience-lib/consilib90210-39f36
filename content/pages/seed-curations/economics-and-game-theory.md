@@ -38,8 +38,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    text: |
-      by Letty 
     media:
       url: /images/justice.jpeg
       altText: altText of the image
