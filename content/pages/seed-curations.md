@@ -202,7 +202,7 @@ sections:
     actions:
       - label: Hire me
         altText: 'Political Science & Governance by Juanka '
-        url: /seed-curations/Political ScienceGovernance
+        url: /seed-curations/Political Science-andGovernance
         showIcon: true
         icon: arrowRight
         iconPosition: right
