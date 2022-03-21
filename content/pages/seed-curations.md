@@ -233,46 +233,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  type: HeroSection
-  - colors: colors-a
-    elementId: ''
-    backgroundSize: full
-    title: psychology and decision science
-    text: null
-    actions:
-      - label: read more
-        altText: ''
-        url: /seed-curations/psychology-and-decision-science
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
-    media:
-      type: ImageBlock
-      url: /images/Consilience Background.png
-      altText: Hero image
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-36
-          - pb-48
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
     type: HeroSection
 layout: PageLayout
 ---
