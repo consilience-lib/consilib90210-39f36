@@ -360,7 +360,7 @@ sections:
     title: Industrial Systems and Engineering
     text: null
     actions:
-      - label: Hire me
+      - label: read more
         altText: ''
         url: /
         showIcon: true
