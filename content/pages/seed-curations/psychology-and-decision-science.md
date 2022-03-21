@@ -7,7 +7,7 @@ metaTags: []
 title: computer science and cryptography
 colors: colors-a
 backgroundImage:
-  url: 'https://arweave.net/F4jdzgLtsHK2AfbI5tY28FJZWDMeC75levrRnC0n7KM'
+  url: 'https://arweave.net/vx1-NEnbgpvxQw6T_reuCwazemGuno7esrdT3JsOY18'
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
