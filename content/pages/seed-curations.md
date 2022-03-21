@@ -280,7 +280,7 @@ sections:
     title: Economics and Game Theory
     text: null
     actions:
-      - label: Hire me
+      - label: read more
         altText: ''
         url: /
         showIcon: true
