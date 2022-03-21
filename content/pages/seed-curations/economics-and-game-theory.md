@@ -39,7 +39,7 @@ sections:
       actions:
         justifyContent: flex-start
     media:
-      url: /images/justice.jpeg
+      url: /images/IMG_6013.jpg
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
