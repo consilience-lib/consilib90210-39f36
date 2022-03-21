@@ -15,7 +15,7 @@ backgroundImage:
 sections:
   - type: HeroSection
     colors: colors-a
-    title: philosophy law and ethics
+    title: Economics & Game Theory
     actions: []
     backgroundSize: full
     styles:
