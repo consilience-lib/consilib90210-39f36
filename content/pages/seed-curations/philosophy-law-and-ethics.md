@@ -4,7 +4,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: political science and governance
+title: phi
 colors: colors-a
 backgroundImage:
   url: 'https://arweave.net/Wd5G-Qsxal9ZomsziUQBjnuy-cHviUQswLz06wGN0zk'
