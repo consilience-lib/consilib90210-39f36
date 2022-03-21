@@ -15,7 +15,7 @@ backgroundImage:
 sections:
   - type: HeroSection
     colors: colors-a
-    title: Psychology & Decision Science
+    title: 'Political Science & Governance by Juanka '
     actions: []
     backgroundSize: full
     styles:
