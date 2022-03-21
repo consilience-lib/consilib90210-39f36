@@ -4,7 +4,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: 'computer science and '
+title: computer science and cryptography
 colors: colors-a
 backgroundImage:
   url: 'https://arweave.net/90rJnOlIoMOCq9lmtxC2-sK_0AfcLxJ_66VgYgTJ1mY'
