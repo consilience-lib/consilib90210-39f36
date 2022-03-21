@@ -19,7 +19,7 @@ sections:
     actions:
       - label: seed curations
         altText: ''
-        url: /
+        url: /seed-curations
         showIcon: false
         icon: arrowRight
         iconPosition: right
