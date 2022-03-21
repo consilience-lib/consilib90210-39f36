@@ -233,7 +233,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-   type: HeroSection
+  type: HeroSection
   - colors: colors-a
     elementId: ''
     backgroundSize: full
