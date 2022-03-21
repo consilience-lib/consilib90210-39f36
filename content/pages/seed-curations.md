@@ -368,6 +368,7 @@ sections:
         style: primary
         elementId: ''
         type: Button
+        url: /seed-curations
     media:
       type: ImageBlock
       url: /images/drive.jpeg
