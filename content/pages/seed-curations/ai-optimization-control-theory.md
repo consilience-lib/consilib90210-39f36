@@ -16,16 +16,7 @@ sections:
   - type: HeroSection
     colors: colors-a
     title: 'AI, Optimization & Control Theory by Zargham'
-    actions:
-      - label: seed curations
-        altText: ''
-        url: /seed-curations
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
+    actions: []
     backgroundSize: full
     styles:
       self:
