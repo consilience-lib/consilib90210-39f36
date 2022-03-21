@@ -7,7 +7,7 @@ metaTags: []
 title: political science and governance
 colors: colors-a
 backgroundImage:
-  url: 'https://arweave.net/vx1-NEnbgpvxQw6T_reuCwazemGuno7esrdT3JsOY18'
+  url: 'https://arweave.net/Wd5G-Qsxal9ZomsziUQBjnuy-cHviUQswLz06wGN0zk'
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
