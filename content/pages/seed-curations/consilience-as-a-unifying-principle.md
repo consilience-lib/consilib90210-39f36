@@ -7,7 +7,7 @@ metaTags: []
 title: Consilience As A Unifying Principle
 colors: colors-a
 backgroundImage:
-  url: 'https://arweave.net/F4jdzgLtsHK2AfbI5tY28FJZWDMeC75levrRnC0n7KM'
+  url: 'https://arweave.net/90rJnOlIoMOCq9lmtxC2-sK_0AfcLxJ_66VgYgTJ1mY'
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
