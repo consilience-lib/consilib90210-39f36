@@ -15,7 +15,7 @@ backgroundImage:
 sections:
   - type: HeroSection
     colors: colors-a
-    title: computer science and cryptography
+    title: Psychology & Decision Science by Mount Manu
     actions: []
     backgroundSize: full
     styles:
