@@ -15,7 +15,7 @@ backgroundImage:
 sections:
   - type: HeroSection
     colors: colors-a
-    title: 'Political Science & Governance '
+    title: 'philosophy law and ethics'
     actions: []
     backgroundSize: full
     styles:
