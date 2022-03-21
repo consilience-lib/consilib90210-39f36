@@ -357,9 +357,7 @@ sections:
   - colors: colors-c
     elementId: ''
     backgroundSize: full
-    title: >-
-      I'm a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+    title: Industrial Systems and Engineering
     text: null
     actions:
       - label: Hire me
