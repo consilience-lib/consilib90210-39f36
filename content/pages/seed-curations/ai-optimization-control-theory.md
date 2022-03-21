@@ -71,5 +71,11 @@ sections:
       caption: Caption of the image
       elementId: ''
       type: ImageBlock
+      - type: LabelsSection
+    colors: colors-f
+    items:
+      - type: Label
+        label: seed curations
+        url: /seed-curations
 layout: PageLayout
 ---
