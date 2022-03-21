@@ -201,7 +201,7 @@ sections:
     text: null
     actions:
       - label: Hire me
-        altText: ''
+        altText: 'Political Science & Governance by Juanka '
         url: /
         showIcon: true
         icon: arrowRight
