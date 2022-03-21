@@ -15,7 +15,7 @@ backgroundImage:
 sections:
   - type: HeroSection
     colors: colors-a
-    title: Economics & Game Theory
+    title: Economics and Game Theory
     actions: []
     backgroundSize: full
     styles:
