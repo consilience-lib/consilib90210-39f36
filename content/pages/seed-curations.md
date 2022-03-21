@@ -246,7 +246,7 @@ sections:
       can continue to scroll down to see more details and credentials about me.
     text: null
     actions:
-      - label: Hire me
+      - label: read more
         altText: ''
         url: /
         showIcon: true
