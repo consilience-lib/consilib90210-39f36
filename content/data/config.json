@@ -112,7 +112,7 @@
                 "url": "https://github.com/consilience-lib/consilib90210-39f36",
                 "showIcon": true,
                 "icon": "github",
-                "iconPosition": "right",
+                "iconPosition": "left",
                 "style": "primary",
                 "elementId": "",
                 "type": "Button"
