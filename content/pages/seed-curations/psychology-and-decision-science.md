@@ -39,7 +39,7 @@ sections:
       actions:
         justifyContent: flex-start
     text: |
-      Computer Science & Cryptography by ?
+      by Mount Manu
   - type: LabelsSection
     colors: colors-f
     items:
